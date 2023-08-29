@@ -1,0 +1,4 @@
+name: WanderingSMP
+version: '${project.version}'
+main: dev.tymen.wanderingsmp.WanderingSMP
+api-version: '1.20'
